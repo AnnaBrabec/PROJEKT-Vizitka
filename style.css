@@ -40,6 +40,7 @@ img {
     box-shadow: 8px 8px 8px gray;
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
+    word-spacing: -1px;
 }
 .vizitka p {
     margin: 0;
